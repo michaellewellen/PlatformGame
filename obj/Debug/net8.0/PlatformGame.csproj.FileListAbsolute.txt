@@ -1,0 +1,15 @@
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.AssemblyInfo.cs
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.sourcelink.json
+C:\Users\michael.lewellen\CODE\PlatformGame\bin\Debug\net8.0\PlatformGame.exe
+C:\Users\michael.lewellen\CODE\PlatformGame\bin\Debug\net8.0\PlatformGame.deps.json
+C:\Users\michael.lewellen\CODE\PlatformGame\bin\Debug\net8.0\PlatformGame.runtimeconfig.json
+C:\Users\michael.lewellen\CODE\PlatformGame\bin\Debug\net8.0\PlatformGame.dll
+C:\Users\michael.lewellen\CODE\PlatformGame\bin\Debug\net8.0\PlatformGame.pdb
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.dll
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\refint\PlatformGame.dll
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.pdb
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\PlatformGame.genruntimeconfig.cache
+C:\Users\michael.lewellen\CODE\PlatformGame\obj\Debug\net8.0\ref\PlatformGame.dll
